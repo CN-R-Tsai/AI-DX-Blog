@@ -1,7 +1,7 @@
 # AI/DX Blog
 
 Updated on February 07, 2023
-Author: Chung-nan (Roger) Tsai
+Author: C.N. Roger T.
 
 👋 Hello there! Thank you for taking the time to visit my Github repo. 🙏
 
