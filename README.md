@@ -38,6 +38,7 @@ Database
 
 ## Screenshots
 Here is a snaps from the web application shows: 
+&nbsp;
 due to confidentiality, the snapshot has been removed.
 > Login UI
 <img src="imges/LogInUI.png" width="520" height="320">
